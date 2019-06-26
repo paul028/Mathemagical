@@ -1,0 +1,1 @@
+17;18;-1;-1;3;4;1;6;2;-1;-6;9;2;-38;-6;4;5;-8;-1;-1;3;3;-11;7;1;true;true;true;true;true;true;true;3;true;false;true;false;false;solid;section;vertices;cube;parallelepiped;120;15;true;true;false;true;210;10;

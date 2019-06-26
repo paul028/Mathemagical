@@ -1,0 +1,72 @@
+How many cubic inches of a lumber does a stick contain 
+if it is 4 in. by 4 in. at one end, 2 in. by 2 in.
+at the other end,and 16 ft. long?;
+A pole of height h = 60 ft 
+has a shadow of length l = 34.64 ft 
+at a particular instant of time. Find the angle of elevation 
+(in degrees) of the sun at this point of time.;
+A ladder leans against a building.  The foot of the ladder is 
+6 feet from the building.  The ladder reaches a height of 14 feet 
+on the building. Find to the nearest degree, the angle the ladder 
+makes with the ground.;
+How much material was used in the manufacture of 
+24,000 celluloid dice, if each die has an edge of 1/4 inch?;
+What is the weight of a block of ice 24 in. by 24 in. by 24 in.,
+if ice weighs 92 per cent as much as water,
+and water weighs 62.5 lb per cu. ft.?;
+Counting 38 cubic feet of coal to a ton, how many tons will a 
+coal bin 19 deet long, 6 feet wide and 9 feet deep contain, 
+when level full?;
+Building bricks are closely stacked in a pile 7 feet high, 36 feet long, 
+and 12 feet wide. If the bricks are 2 in by 4 in by 9 in, 
+how many bricks are in the pile?;
+The area of a quadrilateral with 7 cm, 8 cm, 6 cm, and 4 cm 
+is 56 square cm. obtain the area of a similar 
+quadrilateral whose longest side is 12 cm.;
+Find the area of an isosceles right triangle, 
+if one of the equal sides is 14 cm long.;
+The area of a square plot is 1764 square meter. 
+Find the length of its one side.;
+Find the circumference of the circle whose area is 16 times 
+the area of the circle with diameter 7 cm.;
+From a square cardboard, a circle of biggest area was cut out. 
+If the area of the circle is 154 square cm, 
+calculate the original area of the cardboard.;
+Find the circumference of the circle whose area 
+is equal to the sum of the areas of three circles 
+with radius 2 cm, 3cm and 6 cm.;
+A window glass is 4 feet 2 inches by 2 feet 10 inches. 
+Find the Area.;
+A garden plot is to contain 200 square feet. 
+If its length is to be twice its width, 
+what should its dimensions be? write the answer in terms of
+lxw;
+Find the area of the base of a regular square pyramid 
+whose lateral faces are equilateral triangles 
+and whose altitude is 8 inches.;
+The height of a cylinder is 9 inches and the volume is 
+144pi cubic inches. Find the radius of the cylinder.;
+in a cylinder, r = 7 and surface area  = 210 pi. 
+Find the height of the cylinder.;
+If you are standing 20 feet from the base of a statue 
+and the angle of elevation from your eyes to the statue's top 
+is 40 degrees, how tall is the statue?;
+A ladder 5 m long, leaning against a vertical wall makes 
+an angle of 65° with the ground. What angle does the ladder 
+make with the wall?;
+The angle of elevation of the top of a water tower 
+from point A on the ground is 19.9 degrees. 
+From point B, 50 feet closer to the tower, 
+the angle of elevation is 21.8 degrees. 
+What is the height of the tower?;
+A ladder leans against a building.  The foot of the ladder is 6 feet 
+from the building. The ladder reaches a height of 14 feet on the building.
+Find the length of the ladder.;
+A five-meter-long ladder leans against a wall, with the 
+top of the ladder being four meters above the ground. 
+What is the approximate angle that the ladder makes with the ground?;
+A ramp is 50 feet long, and it is set at a 30 degree angle 
+of inclination. If you walk up the ramp, 
+how high off the ground will you be?;
+True or False: The common endpoint of two rays of an angle 
+is called vertex.;

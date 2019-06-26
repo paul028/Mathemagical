@@ -1,0 +1,26 @@
+Find the value of x in the equation 1/2(6x-8)+3(x+2)=4(2x-1);
+Find the value of x in the equation (1/2)x+3=(3/5)x-1;
+Find the value of x in the equation 1/5(2x-4)=1/3(x+2);
+Find the value of x in the equation(3/4)x-(1/3)x+1=(4/5)x-3/20;
+Find the value of x in the equation(1/3)x+4=(4x-1)/5;
+Find the value of x in the equation3/(x+1)=6/(5x-1);
+Find the value of x in the equation3/4x-2=1/3x+3;
+Find the value of x in the equation(1/2)x+2/3=1/3(x+4);
+Find the value of x in the equation9/5(3-x)=3/4(x-3);
+Find the value of x in the equation38+7x=8(x+4);
+If a ramp needs to be built from a point 10 feet away from a 
+20 foot high building and the ramp must touch the top 
+of the building,how steep must the ramp be?;
+A little boy is flying a kite. The string of the kite makes 
+an angle of 30o with the ground. If the height of the kite 
+is h = 21 m, find the length (in meters) of the string 
+that the boy has used.;
+How much material was used in the manufacture of 24,000 celluloid dice,
+if each die has an edge of 1/4 inch?;
+Find the area of the rhombus with the side of length 20 cm 
+and the diagonal of length 32 cm.;
+Find the cost of carpeting a room 12 m long and 8 m long 
+at $6 per square metre.;
+Find the value of x in the equation 142+x=3x+64;
+Find the value of x in the equation 40+2x=194;
+Find the value of x in the equation4-(2/3)x=(x-6)/5;
