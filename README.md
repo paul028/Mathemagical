@@ -16,11 +16,12 @@ A math based game that I developed as partial requirement for my Object Oriented
 <br>Register Page
 ![alt text](https://github.com/paul028/Mathemagical/blob/master/Mathemagical/register.jpg)
 <br>Main Menu
-![alt text](https://github.com/paul028/Mathemagical/blob/master/Mathemagical/main%20menu.jpgg)
+![alt text](https://github.com/paul028/Mathemagical/blob/master/Mathemagical/main%20menu.jpg)
 <br>Game Proper
 ![alt text](https://github.com/paul028/Mathemagical/blob/master/Mathemagical/game%20proper.jpg)
 <br>Post Game
 ![alt text](https://github.com/paul028/Mathemagical/blob/master/Mathemagical/post%20game.jpg)
 
 # Requirements
-<br> the program is developed using netbeans IDE
+<br> the program is developed using
+(netbeans IDE)[https://netbeans.apache.org/download/index.html]
