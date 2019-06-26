@@ -24,4 +24,4 @@ A math based game that I developed as partial requirement for my Object Oriented
 
 # Requirements
 <br> the program is developed using
-(netbeans IDE)[https://netbeans.apache.org/download/index.html]
+[netbeans IDE](https://netbeans.apache.org/download/index.html)
